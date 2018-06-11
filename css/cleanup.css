@@ -2,7 +2,7 @@
 #wall .tag-1 {
   display: none;
 }
-.tag-1 + #tag-2 {
+#tag-2 {
   display: none;
 }
 
@@ -41,4 +41,3 @@ body div#wall div.parent div > #tag-7.slick {
   z-index: 1;
   display: block;
 }
-
